@@ -1,0 +1,100 @@
+{
+  "format": "CSV gzip shards",
+  "partition_key": "first alphanumeric character of origin",
+  "total_rows": 1242724,
+  "station_index": "station-index.json",
+  "shards": [
+    {
+      "file": "A.csv.gz",
+      "size_bytes": 1975640
+    },
+    {
+      "file": "B.csv.gz",
+      "size_bytes": 141526
+    },
+    {
+      "file": "C.csv.gz",
+      "size_bytes": 1910402
+    },
+    {
+      "file": "D.csv.gz",
+      "size_bytes": 15046
+    },
+    {
+      "file": "E.csv.gz",
+      "size_bytes": 1236980
+    },
+    {
+      "file": "F.csv.gz",
+      "size_bytes": 645
+    },
+    {
+      "file": "G.csv.gz",
+      "size_bytes": 93568
+    },
+    {
+      "file": "H.csv.gz",
+      "size_bytes": 190906
+    },
+    {
+      "file": "I.csv.gz",
+      "size_bytes": 40747
+    },
+    {
+      "file": "J.csv.gz",
+      "size_bytes": 9183
+    },
+    {
+      "file": "K.csv.gz",
+      "size_bytes": 5077144
+    },
+    {
+      "file": "L.csv.gz",
+      "size_bytes": 58794
+    },
+    {
+      "file": "M.csv.gz",
+      "size_bytes": 848234
+    },
+    {
+      "file": "N.csv.gz",
+      "size_bytes": 438215
+    },
+    {
+      "file": "O.csv.gz",
+      "size_bytes": 427565
+    },
+    {
+      "file": "P.csv.gz",
+      "size_bytes": 1692874
+    },
+    {
+      "file": "R.csv.gz",
+      "size_bytes": 215642
+    },
+    {
+      "file": "S.csv.gz",
+      "size_bytes": 401115
+    },
+    {
+      "file": "T.csv.gz",
+      "size_bytes": 1741712
+    },
+    {
+      "file": "U.csv.gz",
+      "size_bytes": 196357
+    },
+    {
+      "file": "V.csv.gz",
+      "size_bytes": 1452780
+    },
+    {
+      "file": "W.csv.gz",
+      "size_bytes": 57988
+    },
+    {
+      "file": "Y.csv.gz",
+      "size_bytes": 3293
+    }
+  ]
+}
